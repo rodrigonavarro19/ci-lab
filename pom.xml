@@ -25,7 +25,7 @@
     <repository>
       <id>github</id>
       <name>GitHub OWNER Apache Maven Packages</name>
-      <url>https://github.com/rodrigonavarro19/ci-lab</url>
+      <url>https://maven.pkg.github.com/rodrigonavarro19/ci-lab</url>
     </repository>
   </distributionManagement>
   
